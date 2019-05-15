@@ -173,3 +173,64 @@ nav input{
 .text-right{
   text-align: right;
 }
+
+.col-board{
+  border: 1px solid lightgray;
+}
+
+.col-board img{
+  width: 100%;
+}
+
+.board-title-right{
+  float: right;
+}
+
+.contribution-title{
+  padding-top: 1em;
+}
+
+.contribution-title p{
+  font-size: 0.8em;
+}
+
+.activity{
+  border-left: 1px solid lightgray;
+}
+
+.commits{
+  border-bottom: 1px solid lightgray;
+  padding: 1em;
+}
+
+.commits h4{
+  margin: 0;
+}
+
+.commits a{
+  font-size: 0.8em;
+}
+
+.first-repo{
+  border: 1px solid lightgray;
+  margin: 1em;
+}
+
+.first-repo img{
+  width: 100%;
+}
+
+.btn button{
+  width: 100%;
+  background: #fff;
+  border: 1px solid #e1e4e8;
+  border-radius: 3px;
+  color: #0366d6;
+  font-weight: 600;
+  padding: 0.5em;
+}
+
+.git-guide{
+  padding-top: 1em;
+  font-size: 0.7em;
+}
