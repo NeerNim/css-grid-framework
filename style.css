@@ -234,3 +234,12 @@ nav input{
   padding-top: 1em;
   font-size: 0.7em;
 }
+
+.footer-content{
+  width: 80%;
+  font-size: 0.8em;
+}
+
+.footer-content ul,li{
+  display: inline;
+}
