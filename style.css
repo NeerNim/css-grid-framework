@@ -4,7 +4,7 @@ html{
   font-size: 100%; 
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   line-height: 1.5;
-  color: black;
+  color: #586069;
 }
 
 h1{
@@ -135,5 +135,41 @@ nav input{
 }
  
 .card{
-  border: 1px solid red;
+  border: 1px solid #e1e4e8;
+  width: 260px;
+}
+.card img{
+  width: 100%;    
+}
+
+.card-content{
+  padding: 1em;
+}
+
+.main-content{
+  padding-top:2em;
+  width: 90%
+}
+
+.card-repo{
+  border-radius: 3px;
+  border: 1px solid #d1d5da;
+  padding: 0 1em;
+  margin: 1.5em 0;
+  max-height: 8em;
+  height: 8em;
+}
+
+.card-repo h4{
+  font-size: 1em;  
+}
+.card-repo p{
+  font-size: 0.8em;
+}
+.card-repo a{
+  color: #0366d6;
+}
+
+.text-right{
+  text-align: right;
 }
